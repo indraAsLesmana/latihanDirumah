@@ -1,3 +1,3 @@
 hari pertama
-revisi KETIGA
-saya coba menggunakan git dalam workflow kerja dihari KETIGA saya bekerja and enjoy...!!!
+revisi KEEMPAT
+saya coba menggunakan git dalam workflow kerja dihari KEEMPAT saya bekerja and enjoy...!!! dan ini menggunkan branch, yang dimaksudkan ngecopy seluruh data master, ke branch baru.. ini baik kalo ingin bereperiment sementar master file.. tetap tidak tersentuh "UNTOUCHED"
