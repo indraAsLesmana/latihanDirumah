@@ -1,0 +1,3 @@
+hari pertama
+revisi satu
+saya coba menggunakan git dalam workflow kerja
